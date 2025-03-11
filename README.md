@@ -65,7 +65,3 @@ The landing page of the application. Navigate through the app using the drawer m
 - react-native-vector-icons: Icons (Ionicons)
 - react-native-reanimated: Animation support
 - react-native-gesture-handler: Gesture handling
-
-## Contributing
-
-Feel free to submit issues and enhancement requests! 
