@@ -4,13 +4,13 @@ A React Native mobile application that allows users to scan barcodes using their
 
 ## Features
 
-- 📱 Barcode scanning using device camera
-- 🎨 Dark/Light theme support
-- 📝 Barcode history tracking
-- 📋 Copy barcodes to clipboard
-- 🗑️ Delete individual or all scanned barcodes
-- 📱 Haptic feedback for better user experience
-- 🔍 Supports multiple barcode formats (EAN-13, EAN-8, UPC-A, UPC-E)
+- Barcode scanning using device camera
+- Dark/Light theme support
+- Barcode history tracking
+- Copy barcodes to clipboard
+- Delete individual or all scanned barcodes
+- Haptic feedback for better user experience
+- Supports multiple barcode formats (EAN-13, EAN-8, UPC-A, UPC-E)
 
 ## Prerequisites
 
