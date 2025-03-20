@@ -14,15 +14,18 @@ A React Native mobile application that allows users to scan barcodes using their
 
 ## Prerequisites
 
-- Node.js
-- npm or yarn
+- npm
 - Expo CLI
 - iOS/Android device with Expo Go app installed (or simulators)
 
 ## Installation
 
 1. Clone the repository
-2. Install dependencies:
+2.
+```bash
+git clone https://github.com/basilali/ScannerApp
+```
+4. Install dependencies:
 ```bash
 npm install
 ```
@@ -55,13 +58,3 @@ The landing page of the application. Navigate through the app using the drawer m
 - `Scanner.jsx`: Camera view and barcode scanning functionality
 - `History.jsx`: Barcode history management and clipboard operations
 - `Home.jsx`: Home screen component
-
-## Dependencies
-
-- expo-camera: Camera functionality
-- expo-haptics: Haptic feedback
-- expo-clipboard: Clipboard operations
-- @react-navigation/drawer: Drawer navigation
-- react-native-vector-icons: Icons (Ionicons)
-- react-native-reanimated: Animation support
-- react-native-gesture-handler: Gesture handling
