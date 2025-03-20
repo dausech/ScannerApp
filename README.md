@@ -21,11 +21,10 @@ A React Native mobile application that allows users to scan barcodes using their
 ## Installation
 
 1. Clone the repository
-2.
 ```bash
 git clone https://github.com/basilali/ScannerApp
 ```
-4. Install dependencies:
+2. Install dependencies:
 ```bash
 npm install
 ```
