@@ -57,7 +57,7 @@ export default function ScannerScreen() {
         <CameraView
           style={styles.camera}
           barcodeScannerSettings={{
-            barcodeTypes: ['ean13', 'ean8', 'upc_a', 'upc_e'],
+            barcodeTypes: ['qr','code128','ean13', 'ean8', 'upc_a', 'upc_e'],
           }}
           onBarcodeScanned={(event) => scanned(event)}
           zoom={Platform.OS === 'ios' ? 0.5 : 0}

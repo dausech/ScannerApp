@@ -57,3 +57,11 @@ The landing page of the application. Navigate through the app using the drawer m
 - `Scanner.jsx`: Camera view and barcode scanning functionality
 - `History.jsx`: Barcode history management and clipboard operations
 - `Home.jsx`: Home screen component
+
+## package.json - add:
+"overrides": {
+    "react-native-appwrite": {
+      "expo-file-system": "18.*.*",
+      "react-native": ">=0.76.7 <1.0.0"
+    }
+  },
